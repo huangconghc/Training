@@ -24,7 +24,7 @@
 		<mybatis-plus.version>3.2.0</mybatis-plus.version>
 		<generator.version>3.2.0</generator.version>
 		<engine-core.version>2.0</engine-core.version>
-		<mysql.version>5.1.6</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<boot-starter.version>2.1.2</boot-starter.version>
 		<swagger2.version>2.9.2</swagger2.version>
 		<swagger-ui.version>2.9.2</swagger-ui.version>
