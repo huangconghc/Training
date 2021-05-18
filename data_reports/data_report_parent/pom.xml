@@ -32,7 +32,7 @@
 		<platform-launcher.version>1.1.0</platform-launcher.version>
 		<jupiter-api.version>5.7.0-M1</jupiter-api.version>
 		<test.version>2.3.0.RELEASE</test.version>
-		<xstream.version>1.4.10</xstream.version>
+		<xstream.version>1.4.17</xstream.version>
 		<pagehelper.version>5.1.8</pagehelper.version>
 		<autoconfigure.version>1.2.3</autoconfigure.version>
 		<pagehelper-starter.version>1.2.3</pagehelper-starter.version>
